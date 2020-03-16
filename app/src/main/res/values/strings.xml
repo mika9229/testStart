@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">demoStart</string>
+    <string name="click_me">Click me</string>
+    <string name="success_mask">Success\n name = %s</string>
+    <string name="error">Error</string>
+
+</resources>
